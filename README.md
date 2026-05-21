@@ -30,8 +30,8 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the DatabaseTable using the firebasedatabase”.
-Developed by: Dharunyadevi S
-Registeration Number :212223220018
+Developed by: Susithra B
+Registeration Number :212223223220113
 */
 ```
 ## Activity_main.xml
@@ -414,9 +414,8 @@ public class DatabaseHelper extends SQLiteOpenHelper {
 ```
 
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/19c90707-7457-482e-983d-8d189b354212" />
+<img width="1280" height="720" alt="WhatsApp Image 2026-05-21 at 11 24 00 AM" src="https://github.com/user-attachments/assets/5839e9ac-c6a2-48eb-8eb6-b1090325c4a1" />
 
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/f1612d0b-0159-490a-be6b-5769cc740273" />
 
 
 
